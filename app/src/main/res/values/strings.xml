@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Device Tracker</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="PhoneNumber">Phone Number :</string>
+    <string name="PhoneNumberhint">Your Phone Number</string>
+    <string name="settingPage">You can\'t track anyone for now</string>
+    <string name="YourTrackers">Your Trackers</string>
+    <string name="Finders">Find Me!</string>
+
+</resources>
