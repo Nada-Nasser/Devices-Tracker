@@ -16,9 +16,9 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/person_tracker"
+        android:icon="@drawable/user_tracker"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/tracker_icon"
+        android:roundIcon="@drawable/user_tracker"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
